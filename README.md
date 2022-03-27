@@ -5,9 +5,9 @@ To share useful tools
 
 ## Presentation
 
-- [Zoomit](https://docs.microsoft.com/zh-cn/sysinternals/downloads/zoomit)
+- <a href="https://docs.microsoft.com/zh-cn/sysinternals/downloads/zoomit" target="_blank">Zoomit</a>
+- <a href="https://catnip5.itch.io/mouse-highlight" target="_blank">Mouse Highlight</a>
 
-- [Mouse-Highlight](https://catnip5.itch.io/mouse-highlight)
 
 
 Never stop!
