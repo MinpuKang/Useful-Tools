@@ -8,7 +8,7 @@ To share useful tools
 
 
 # Markdown
-- [Markdowna教程中文](https://markdown.com.cn/)
+- [Markdown教程中文](https://markdown.com.cn/)
 - [Markdown教程英文](https://daringfireball.net/projects/markdown/basics)
 - [Markdown Editor Online](https://markdown.com.cn/editor/)
 - [墨滴软件：有软件也可以online使用](https://product.mdnice.com/)
