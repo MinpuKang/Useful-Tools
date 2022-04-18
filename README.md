@@ -11,7 +11,7 @@ To share useful tools
 - [Markdowna教程](https://markdown.com.cn/)
 - [Markdown Editor Online](https://markdown.com.cn/editor/)
 - [墨滴软件：有软件也可以online使用](https://product.mdnice.com/)
-- [VSCode User Snippets of Markdown]（https://github.com/MinpuKang/vscode/blob/main/markdown.json）
+- [VSCode User Snippets of Markdown](https://github.com/MinpuKang/vscode/blob/main/markdown.json)
 
 
 
